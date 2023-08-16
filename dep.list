@@ -1,0 +1,2 @@
+.cache/test.o: test/test.c
+.cache/moving_average.o: src/moving_average.c src/moving_average.h
