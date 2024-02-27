@@ -1,4 +1,4 @@
-# TI
+# TI (Technical indicators)
 Library for Technical Analysis of stock market
 
 
